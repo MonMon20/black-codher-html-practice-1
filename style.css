@@ -1,3 +1,18 @@
 body {
     font-family: 'Urbanist', sans-serif;
 }
+
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.container2 {
+  width: 500px;
+  clear: both;
+}
+
+.container2 input {
+  width: 100%;
+  clear: both;
+}
